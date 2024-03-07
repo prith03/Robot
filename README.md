@@ -1,5 +1,5 @@
 # Package Summary
-The Python package that I used in Robot.py is math. The math package allows coders to perform various mathematical operations, ranging from basic funcation to advanced calculations. Some examples of what the math package has to offer are calculating trigonometric functions(sine, cosine, tangent), rounding, ceiling, flooring, accessing constants like pi, e, and many more. 
+The Python package that I used in robot.py is math. The math package allows coders to perform various mathematical operations, ranging from basic funcation to advanced calculations. Some examples of what the math package has to offer are calculating trigonometric functions(sine, cosine, tangent), rounding, ceiling, flooring, accessing constants like pi, e, and many more. 
 
 # Install and Run Instructions
 If you're trying to code in Python, accessing the math package is very simple. Since Python has numerous built-in packages, installing packages is completely not required. You simply just have to import the math package at the very beginning and you can start using any of the mathematical functions under the package.
